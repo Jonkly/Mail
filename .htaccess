@@ -1,0 +1,4 @@
+#.htaccess File;
+
+DirectoryIndex Mail.php
+Options All -Indexes
